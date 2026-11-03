@@ -139,7 +139,7 @@ The [`SQL/`](SQL/) directory contains the SQL Server script used for database op
 
 [View SQL Analysis](SQL/MSME_Indian_Analysis.sql)
 
-## 📊 Project Presentation
+### Project Presentation
 
 The final presentation summarizes the project's problem statement, analytical methodology, key findings, and insights into India's MSME ecosystem.
 
