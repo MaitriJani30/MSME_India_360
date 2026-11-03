@@ -113,14 +113,14 @@ MSME_India_360/
 ├── Python/
 │   ├── MSME_Analysis.ipynb
 │   ├── MSME_India_Final_Analysis.csv
-│   ├── msme_credit_support_state_2024.csv
-│   ├── msme_employment_state_2024.csv
-│   └── msme_udyam_registrations_state_2024.csv
+│   └── [3 datasets]
 │
 ├── SQL/
 │   └── MSME_Indian_Analysis.sql
 │
-├── MSME_India_360_Presentation.pptx
+├── Presentation/
+│   ├── MSME_India_360_Presentation.pptx
+│   └── MSME_India_360_Presentation.pdf
 │
 └── README.md
 ```
@@ -139,10 +139,15 @@ The [`SQL/`](SQL/) directory contains the SQL Server script used for database op
 
 [View SQL Analysis](SQL/MSME_Indian_Analysis.sql)
 
-### Final Presentation
-The final project presentation summarizes the problem statement, analytical approach, findings, and recommendations.
+## 📊 Project Presentation
 
-[View Project Presentation](MSME_India_360_Presentation.pptx)
+The final presentation summarizes the project's problem statement, analytical methodology, key findings, and insights into India's MSME ecosystem.
+
+- **View Presentation:** [MSME India 360 – PDF](presentation/MSME_India_360_Presentation.pdf)
+- **Download PowerPoint:** [MSME India 360 – PPTX](presentation/MSME_India_360_Presentation.pptx)
+
+The PDF version is provided for convenient viewing directly in the browser, while the PowerPoint version is available for download.
+
 
 ## 🚀 How to Explore the Project
 
