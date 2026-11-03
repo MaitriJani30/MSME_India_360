@@ -48,8 +48,6 @@ The datasets are included in the `Python/` directory.
 | Python | Data analysis and preprocessing |
 | Pandas | Data manipulation and cleaning |
 | NumPy | Numerical operations |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
 | Jupyter Notebook | Exploratory Data Analysis |
 | Microsoft SQL Server | Database operations and analytical queries |
 | GitHub | Project documentation and version control |
@@ -60,11 +58,10 @@ The project follows a structured Business Analytics workflow:
 
 1. **Data Exploration:** Understanding the structure, variables, and characteristics of the three datasets.
 2. **Data Cleaning:** Preparing the data for analysis and handling inconsistencies.
-3. **Exploratory Data Analysis:** Investigating patterns, distributions, and relationships using Python.
+3. **Exploratory Data Analysis:** Investigating patterns, distributions, and relationships using Python NumPy and Pandas.
 4. **SQL Analysis:** Performing database queries, aggregations, filtering, classifications, and joins.
-5. **Data Visualization:** Representing important trends through charts and graphs.
-6. **Insight Generation:** Identifying meaningful patterns across MSME registrations, employment, and credit.
-7. **Final Presentation:** Communicating the findings through a structured project presentation.
+5. **Insight Generation:** Identifying meaningful patterns across MSME registrations, employment, and credit.
+6. **Final Presentation:** Communicating the findings through a structured project presentation.
 
 ## 📈 Key Areas of Analysis
 
